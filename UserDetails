@@ -1,7 +1,5 @@
-[
 {
 name: "User, Test (TXXXXX)",
 isSales: false,
 isManager: true
 }
-]

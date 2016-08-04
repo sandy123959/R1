@@ -1,5 +1,5 @@
 {
-name: "User, Test (TXXXXX)",
-isSales: false,
-isManager: true
+"name": "User, Test (TXXXXX)",
+"isSales": false,
+"isManager": true
 }

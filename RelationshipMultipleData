@@ -13,7 +13,7 @@
         "softExposure":5000,
         "creditRequestById": [
           {
-            "creditRequestId":  159025,
+            "creditRequestId":  259025,
             "totalRequestedAmount" : 50000,
             "createdDate" : "9/2/2015",
             "bankerName" : "Ben Mendelsohn",
@@ -24,7 +24,7 @@
             "creditRequeststatus" : "BLC Underwriting",
             "ProductById": [
               {
-                "productId" :  159025,
+                "productId" :  359025,
                 "productName" : "Auto Renewing Line of Credit ",
                 "maturityDate" : "10/31/2045",
                 "requestedAmount" : 50000,
@@ -42,7 +42,7 @@
                 "productDuration" : "1 Day(s), 01:30"
               },
 			  {
-                "productId" :  159025,
+                "productId" :  459025,
                 "productName" : "Auto Renewing Line of Credit ",
                 "maturityDate" : "10/31/2045",
                 "requestedAmount" : 50000,
@@ -62,7 +62,7 @@
             ]
           },
 		  {
-            "creditRequestId":  159025,
+            "creditRequestId":  669025,
             "totalRequestedAmount" : 50000,
             "createdDate" : "9/2/2015",
             "bankerName" : "Ben Mendelsohn",
@@ -73,7 +73,7 @@
             "creditRequeststatus" : "BLC Underwriting",
             "ProductById": [
               {
-                "productId" :  159025,
+                "productId" :  5469025,
                 "productName" : "Auto Renewing Line of Credit ",
                 "maturityDate" : "10/31/2045",
                 "requestedAmount" : 50000,
@@ -95,14 +95,14 @@
         ]
       },
 	  {
-        "legalEntityId":  106525,
+        "legalEntityId":  86106525,
         "legalEntityName": "Mason Family Pet Hospital , LLC",
         "isHPool": true,
         "grossHardExposure":60000,
         "softExposure":5000,
         "creditRequestById": [
           {
-            "creditRequestId":  159025,
+            "creditRequestId":  78159025,
             "totalRequestedAmount" : 50000,
             "createdDate" : "9/2/2015",
             "bankerName" : "Ben Mendelsohn",
@@ -113,7 +113,7 @@
             "creditRequeststatus" : "BLC Underwriting",
             "ProductById": [
               {
-                "productId" :  159025,
+                "productId" :  787159025,
                 "productName" : "Auto Renewing Line of Credit ",
                 "maturityDate" : "10/31/2045",
                 "requestedAmount" : 50000,

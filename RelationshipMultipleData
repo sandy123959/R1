@@ -327,5 +327,93 @@
         ]
       }
     ]
+  },
+  {
+      "relationshipId": 6453476,
+      "relationshipName": " Krieger Enterprise Inc. Relationship",
+    "regBIndicator":"Reg-B",
+      "totalRelationshipAmount": 14000,
+    "relationshipByLegalEntityId": [
+      {
+        "legalEntityId": 37833476,
+        "legalEntityName": "Krieger Enterprise inc",
+        "isHPool": true,
+        "grossHardExposure":60000,
+            "softExposure": 10000,
+        "creditRequestById": [
+          {
+            "creditRequestId": 38959327,
+            "totalRequestedAmount" : 50000,
+            "createdDate" : "9/2/2015",
+            "bankerName" : "Ben Mendelsohn",
+            "totalHardExposure": 3000,
+            "creditRequestStatusDate" : "05/11/2016",
+            "affiliate" : "01 - Cincinnati (FTCI)",
+            "hasSoftExposure" :"Yes",
+            "creditRequeststatus" : "BLC Underwriting",
+            "ProductById": [
+              {
+                "productId" :  87459025,
+                "productName" : "Auto Renewing Line of Credit ",
+                "maturityDate" : "10/31/2045",
+                "requestedAmount" : 50000,
+                "reasonCode" : "Bankruptcy",
+                "creditType" : "New",
+                "regBIndicatorByProduct": "Reg-B",
+                "productStatusDate" : "12/31/2016",
+                "queueProductStatus" : "BLC Underwriting - Awaiting Information from Banker",
+                "comments" : "Financial statements & collaterals for all the financial statements & covenants..",
+                "hasCollateral" : "Yes",
+                "secondReviewInitiated" : "Second Review Initiated",
+                "exceptions" : "Exceptions",
+                "requiresQA" : "Yes",
+                "productType" : "Product Type",
+                "productDuration" : "1 Day(s), 01:30"
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "legalEntityId": 8833476,
+        "legalEntityName": "Krieger Enterprise inc",
+        "isHPool": true,
+        "grossHardExposure":60000,
+            "softExposure": 10000,
+        "creditRequestById": [
+          {
+            "creditRequestId": 87459025,
+            "totalRequestedAmount" : 50000,
+            "createdDate" : "9/2/2015",
+            "bankerName" : "Ben Mendelsohn",
+            "totalHardExposure": 3000,
+            "creditRequestStatusDate" : "05/11/2016",
+            "affiliate" : "01 - Cincinnati (FTCI)",
+            "hasSoftExposure" :"Yes",
+            "creditRequeststatus" : "BLC Underwriting",
+            "ProductById": [
+              {
+                "productId" :  8797459025,
+                "productName" : "Auto Renewing Line of Credit ",
+                "maturityDate" : "10/31/2045",
+                "requestedAmount" : 50000,
+                "reasonCode" : "Bankruptcy",
+                "creditType" : "New",
+                "regBIndicatorByProduct": "Reg-B",
+                "productStatusDate" : "12/31/2016",
+                "queueProductStatus" : "BLC Underwriting - Awaiting Information from Banker",
+                "comments" : "Financial statements & collaterals for all the financial statements & covenants..",
+                "hasCollateral" : "Yes",
+                "secondReviewInitiated" : "Second Review Initiated",
+                "exceptions" : "Exceptions",
+                "requiresQA" : "Yes",
+                "productType" : "Product Type",
+                "productDuration" : "1 Day(s), 01:30"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

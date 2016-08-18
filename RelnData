@@ -1,0 +1,56 @@
+{
+   "Relationships": [
+      {
+         "RelationshipId": 127075,
+         "RelationshipName": "Nolcon Marketing RELATIONSHIP",
+         "TotalRelationshipExposure": 35000,
+         "RegBIndicator": null,
+         "LegalEntities": [
+            {
+               "LegalEntityId": 476875,
+               "LegalEntityName": "SBL ENTITY",
+               "HPoolIndicator": "No",
+               "Affiliate": null,
+               "GrossHardExposure": 0,
+               "SoftExposure": 0,
+               "Comments": null,
+               "IsDocument": null,
+               "CreditRequests": [
+                  {
+                     "CreditRequestId": 189001,
+                     "CreatedDate": "06/29/2016",
+                     "Affiliate": null,
+                     "TotalRequestedAmount": "4.00",
+                     "BankerName": "Watt,Steve",
+                     "LendingHardExposure": 0,
+                     "LendingSoftExposure": 0,
+                     "StatusDesc": "Auto Approved",
+                     "StatusDate": "0001-01-01T00:00:00",
+                     "AllowStatusEdit": false,
+                     "Products": [
+                        {
+                           "ProductId": 304939,
+                           "CreditType": "New - Restructure & Decrease",
+                           "ProductType": "Fee Based/Tax Cred/Securities",
+                           "MaturityDate": "01/01/0001",
+                           "RequestedAmount": "4.00",
+                           "Queue": "In Progress",
+                           "StatusDesc": null,
+                           "StatusDate": "0001-01-01T00:00:00",
+                           "ReasonDesc": null,
+                           "AllowStatusEdit": false,
+                           "RequireQA": false,
+                           "Comments": null,
+                           "HasSecondReview": true,
+                           "HasExceptions": false,
+                           "RegBIndicator": 0,
+                           "CollateralTypeHierarchy": ""
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
